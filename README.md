@@ -6,7 +6,7 @@ This is the official repository for the discord utilities bot for KRP. Please re
   4. At any time, I can choose to withdraw from this project, completed or incompleted, provided that I submit a notice 3 days prior to the withdrawal date.
   5. In case I withdraw with work incomplete, the customer is expected to pay for the work done.
   6. I reserve the right to extend the deadline for 1 week, with a notice, with or without a reason.
-  7. Any work will be accepted by the Customer only. Work isseud by other group directives (other than those mentioned in the customer list), would need consent of       the cusotmers.  
+  7. Any work will be accepted by the Customer only. Work issued by other group directives (other than those mentioned in the customer list), would need consent of       the customers.  
 
 In the following terms, "I" refers to the developer, and the maker of this bot, karthikeya121 (not_architect).
 "Customer" refers to M4RSJ4RS (curlyheadmarrs) and Missing_Clapz (jordanjayy.).
